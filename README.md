@@ -1,3 +1,3 @@
-# This is the backup repo of official website
+# This is the backup repo of the official website
 
 [Cosmic Charade](https://cosmic-charade.netlify.app)
